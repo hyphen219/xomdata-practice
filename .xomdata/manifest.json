@@ -175,5 +175,9 @@
   "practice/sql/medium/medium-topn-005/solution.sql": "9891f16b442ef9d2e1a5cbeade02e18a0cc1bff3d1f04029c2204d79bac2264b",
   "practice/sql/medium/medium-topn-006/solution.sql": "c5210962efb87cf38b7018ea91ece171cba2a6c9be2d631361cd9b32b877b8c5",
   "practice/sql/medium/medium-winagg-004/solution.sql": "c29f261a3b0e2a6b60b6b84ac701b9d54eaff65a17f59ab6338e571d0f191837",
-  "practice/sql/medium/medium-winagg-005/solution.sql": "4a9a0827ba88dd6feb038821acc6c4d85fe9e6ceeea323ba6bd4e238385c4d15"
+  "practice/sql/medium/medium-winagg-005/solution.sql": "4a9a0827ba88dd6feb038821acc6c4d85fe9e6ceeea323ba6bd4e238385c4d15",
+  "practice/sql/medium/medium-winagg-001/solution.sql": "d826a0bbe97ef59ca11627be44799f056e3ec17025afe48b410caca0f7b7ebf5",
+  "practice/sql/medium/medium-winagg-006/solution.sql": "d24e7e0bb69435aa61a966cbeeaf629cdeb57eedf8d6ffa44c0ab4004f20b829",
+  "practice/sql/medium/medium-winagg-007/solution.sql": "be575f1355d411a47674604c32e1160524f817ed16c86a56e62f4f3da6e8a07f",
+  "practice/sql/medium/medium-winagg-008/solution.sql": "cda71bda0c1d8a468f76f61b1058f2c5fb81f2b8d5688e74880808a2255ce662"
 }
