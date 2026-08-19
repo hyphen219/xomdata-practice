@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**181** problems solved on [Xom Data](https://xomdata.com/practice).
+**191** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 4 | 0 | 0 | 0 | 4 |
+| Python | 14 | 0 | 0 | 0 | 14 |
 | SQL | 80 | 82 | 15 | 0 | 177 |
 
 **Recently solved**
 
-- [medium-winagg-008](https://xomdata.com/practice/medium-winagg-008) · Medium · 2026-08-14
-- [medium-winagg-007](https://xomdata.com/practice/medium-winagg-007) · Medium · 2026-08-14
-- [medium-winagg-006](https://xomdata.com/practice/medium-winagg-006) · Medium · 2026-08-14
-- [medium-winagg-001](https://xomdata.com/practice/medium-winagg-001) · Medium · 2026-08-14
-- [medium-winagg-005](https://xomdata.com/practice/medium-winagg-005) · Medium · 2026-08-13
-- [medium-winagg-004](https://xomdata.com/practice/medium-winagg-004) · Medium · 2026-08-13
-- [medium-topn-006](https://xomdata.com/practice/medium-topn-006) · Medium · 2026-08-13
-- [medium-topn-005](https://xomdata.com/practice/medium-topn-005) · Medium · 2026-08-12
-- [medium-winagg-009](https://xomdata.com/practice/medium-winagg-009) · Medium · 2026-08-12
-- [medium-winagg-010](https://xomdata.com/practice/medium-winagg-010) · Medium · 2026-08-12
+- [py-compound-interest](https://xomdata.com/practice/py-compound-interest) · Easy · 2026-08-19
+- [py-completion-rate](https://xomdata.com/practice/py-completion-rate) · Easy · 2026-08-19
+- [py-char-position](https://xomdata.com/practice/py-char-position) · Easy · 2026-08-19
+- [py-celsius-to-f](https://xomdata.com/practice/py-celsius-to-f) · Easy · 2026-08-19
+- [py-in-range](https://xomdata.com/practice/py-in-range) · Easy · 2026-08-19
+- [py-sum-positive](https://xomdata.com/practice/py-sum-positive) · Easy · 2026-08-18
+- [py-count-digits](https://xomdata.com/practice/py-count-digits) · Easy · 2026-08-18
+- [py-rectangle-area](https://xomdata.com/practice/py-rectangle-area) · Easy · 2026-08-18
+- [py-count-even](https://xomdata.com/practice/py-count-even) · Easy · 2026-08-16
+- [py-above-threshold](https://xomdata.com/practice/py-above-threshold) · Easy · 2026-08-16
 
-_Synced 181 solutions · last update 2026-08-14_
+_Synced 191 solutions · last update 2026-08-19_
 
 <!-- xomdata:stats:end -->
 

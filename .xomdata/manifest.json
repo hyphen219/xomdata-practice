@@ -179,5 +179,15 @@
   "practice/sql/medium/medium-winagg-001/solution.sql": "d826a0bbe97ef59ca11627be44799f056e3ec17025afe48b410caca0f7b7ebf5",
   "practice/sql/medium/medium-winagg-006/solution.sql": "d24e7e0bb69435aa61a966cbeeaf629cdeb57eedf8d6ffa44c0ab4004f20b829",
   "practice/sql/medium/medium-winagg-007/solution.sql": "be575f1355d411a47674604c32e1160524f817ed16c86a56e62f4f3da6e8a07f",
-  "practice/sql/medium/medium-winagg-008/solution.sql": "cda71bda0c1d8a468f76f61b1058f2c5fb81f2b8d5688e74880808a2255ce662"
+  "practice/sql/medium/medium-winagg-008/solution.sql": "cda71bda0c1d8a468f76f61b1058f2c5fb81f2b8d5688e74880808a2255ce662",
+  "practice/python/easy/py-above-threshold/solution.py": "632fcc96b3b68e3ed174a740c0e71f79372fa8097624efb8c97e336d46b9fc7b",
+  "practice/python/easy/py-count-even/solution.py": "dc2f8585d2e38a97d0c554c312afe853d9e00464be4098c6e82b2d3bfc1c3e2f",
+  "practice/python/easy/py-rectangle-area/solution.py": "a71b882450057ccc6fc95a90acb2ea89afc7feee6244cba0edfa11a5a536be72",
+  "practice/python/easy/py-count-digits/solution.py": "5175d4c1fde16912daaa3345cb5180cb249147c5734174e4301fb664b58b2262",
+  "practice/python/easy/py-sum-positive/solution.py": "c7347a74e9cd8d7d58fc72fbb6698a6ef9bac7f5b03dacc601896c13b9e87053",
+  "practice/python/easy/py-in-range/solution.py": "e2be2d34ed7824183bf04d7e4fba03bce5d8dc8613a7331a76a1941d97ab48f4",
+  "practice/python/easy/py-celsius-to-f/solution.py": "9a82a42e8d91ece1a7504777cde46691a92df1019f172a9cbd886771fcb3f79d",
+  "practice/python/easy/py-char-position/solution.py": "3f357481cf040e3eb3c4e27edc6af23edffbe85208c629f7232d9f1db0934ba0",
+  "practice/python/easy/py-completion-rate/solution.py": "9f8be4af2f1bc6d04ebd8cf14a99cdd7f14576d2b35a88f06a18485911fee7f1",
+  "practice/python/easy/py-compound-interest/solution.py": "a8d1981199cd51a4305dd01e1158ae9dea7377fbe852601ceb2d979b4bd09438"
 }
