@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**191** problems solved on [Xom Data](https://xomdata.com/practice).
+**214** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 14 | 0 | 0 | 0 | 14 |
-| SQL | 80 | 82 | 15 | 0 | 177 |
+| Python | 26 | 0 | 0 | 0 | 26 |
+| SQL | 80 | 93 | 15 | 0 | 188 |
 
 **Recently solved**
 
-- [py-compound-interest](https://xomdata.com/practice/py-compound-interest) · Easy · 2026-08-19
-- [py-completion-rate](https://xomdata.com/practice/py-completion-rate) · Easy · 2026-08-19
-- [py-char-position](https://xomdata.com/practice/py-char-position) · Easy · 2026-08-19
-- [py-celsius-to-f](https://xomdata.com/practice/py-celsius-to-f) · Easy · 2026-08-19
-- [py-in-range](https://xomdata.com/practice/py-in-range) · Easy · 2026-08-19
-- [py-sum-positive](https://xomdata.com/practice/py-sum-positive) · Easy · 2026-08-18
-- [py-count-digits](https://xomdata.com/practice/py-count-digits) · Easy · 2026-08-18
-- [py-rectangle-area](https://xomdata.com/practice/py-rectangle-area) · Easy · 2026-08-18
-- [py-count-even](https://xomdata.com/practice/py-count-even) · Easy · 2026-08-16
-- [py-above-threshold](https://xomdata.com/practice/py-above-threshold) · Easy · 2026-08-16
+- [medium-firstlast-001](https://xomdata.com/practice/medium-firstlast-001) · Medium · 2026-09-04
+- [py-mask-phone](https://xomdata.com/practice/py-mask-phone) · Easy · 2026-09-03
+- [py-word-count](https://xomdata.com/practice/py-word-count) · Easy · 2026-09-03
+- [py-initials](https://xomdata.com/practice/py-initials) · Easy · 2026-09-03
+- [medium-recency-002](https://xomdata.com/practice/medium-recency-002) · Medium · 2026-09-02
+- [medium-repeat-001](https://xomdata.com/practice/medium-repeat-001) · Medium · 2026-09-01
+- [medium-monetary-002](https://xomdata.com/practice/medium-monetary-002) · Medium · 2026-08-31
+- [medium-monetary-005](https://xomdata.com/practice/medium-monetary-005) · Medium · 2026-08-30
+- [medium-frequency-004](https://xomdata.com/practice/medium-frequency-004) · Medium · 2026-08-28
+- [medium-monetary-004](https://xomdata.com/practice/medium-monetary-004) · Medium · 2026-08-28
 
-_Synced 191 solutions · last update 2026-08-19_
+_Synced 214 solutions · last update 2026-09-04_
 
 <!-- xomdata:stats:end -->
 
