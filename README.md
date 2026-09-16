@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**214** problems solved on [Xom Data](https://xomdata.com/practice).
+**243** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 26 | 0 | 0 | 0 | 26 |
-| SQL | 80 | 93 | 15 | 0 | 188 |
+| Python | 27 | 0 | 0 | 0 | 27 |
+| SQL | 86 | 112 | 18 | 0 | 216 |
 
 **Recently solved**
 
-- [medium-firstlast-001](https://xomdata.com/practice/medium-firstlast-001) · Medium · 2026-09-04
-- [py-mask-phone](https://xomdata.com/practice/py-mask-phone) · Easy · 2026-09-03
-- [py-word-count](https://xomdata.com/practice/py-word-count) · Easy · 2026-09-03
-- [py-initials](https://xomdata.com/practice/py-initials) · Easy · 2026-09-03
-- [medium-recency-002](https://xomdata.com/practice/medium-recency-002) · Medium · 2026-09-02
-- [medium-repeat-001](https://xomdata.com/practice/medium-repeat-001) · Medium · 2026-09-01
-- [medium-monetary-002](https://xomdata.com/practice/medium-monetary-002) · Medium · 2026-08-31
-- [medium-monetary-005](https://xomdata.com/practice/medium-monetary-005) · Medium · 2026-08-30
-- [medium-frequency-004](https://xomdata.com/practice/medium-frequency-004) · Medium · 2026-08-28
-- [medium-monetary-004](https://xomdata.com/practice/medium-monetary-004) · Medium · 2026-08-28
+- [hard-funnel-001](https://xomdata.com/practice/hard-funnel-001) · Hard · 2026-09-16
+- [medium-frequency-001](https://xomdata.com/practice/medium-frequency-001) · Medium · 2026-09-16
+- [medium-churn-006](https://xomdata.com/practice/medium-churn-006) · Medium · 2026-09-16
+- [medium-churn-007](https://xomdata.com/practice/medium-churn-007) · Medium · 2026-09-16
+- [medium-active-005](https://xomdata.com/practice/medium-active-005) · Medium · 2026-09-16
+- [medium-churn-004](https://xomdata.com/practice/medium-churn-004) · Medium · 2026-09-16
+- [medium-frequency-003](https://xomdata.com/practice/medium-frequency-003) · Medium · 2026-09-15
+- [medium-active-003](https://xomdata.com/practice/medium-active-003) · Medium · 2026-09-14
+- [medium-churn-003](https://xomdata.com/practice/medium-churn-003) · Medium · 2026-09-14
+- [medium-cohort-006](https://xomdata.com/practice/medium-cohort-006) · Medium · 2026-09-13
 
-_Synced 214 solutions · last update 2026-09-04_
+_Synced 247 solutions · last update 2026-09-16_
 
 <!-- xomdata:stats:end -->
 
